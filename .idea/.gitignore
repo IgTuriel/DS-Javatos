@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\Alumno\Desktop\RepoDS\UD_Software_Design\Unit 2.4 - ORM\Datanucleus_tutorial2_with_Maven\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
