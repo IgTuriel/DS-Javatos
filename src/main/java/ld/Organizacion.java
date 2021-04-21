@@ -19,7 +19,7 @@ public class Organizacion {
     private Date fechaCreacion;
 
     @Join
-    @Persistent(mappedBy="org", dependentElement="true")
+    @Persistent(mappedBy="orgsUsuario", dependentElement="true")
     private List<Usuario> miembrosOrg = new ArrayList<>();
 
     public Organizacion() {

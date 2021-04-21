@@ -1,0 +1,822 @@
+13:17:44,030 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 5.2.7) para el API "JDO" utilisando el JRE "{2}"
+13:17:44,647 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Commit.class" con definicion enhanced
+13:17:44,648 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : ld.Commit
+13:17:44,661 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Equipo.class" con definicion enhanced
+13:17:44,663 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : ld.Equipo
+13:17:44,674 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Organizacion.class" con definicion enhanced
+13:17:44,676 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : ld.Organizacion
+13:17:44,693 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Repositorio.class" con definicion enhanced
+13:17:44,695 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : ld.Repositorio
+13:17:44,709 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Topico.class" con definicion enhanced
+13:17:44,710 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : ld.Topico
+13:17:44,721 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Usuario.class" con definicion enhanced
+13:17:44,723 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : ld.Usuario
+13:17:44,727 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 6 clases. Tiempos : input=457 ms, enhance=221 ms, total=678 ms. Compruebe el LOG para los detalles
+13:18:12,138 (main) INFO  [DataNucleus.SchemaTool] - DataNucleus SchemaTool : Creación del esquema para clases
+13:18:12,139 (main) INFO  [DataNucleus.SchemaTool] - DataNucleus SchemaTool : Classpath
+13:18:12,140 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\datanucleus\datanucleus-maven-plugin\5.2.1\datanucleus-maven-plugin-5.2.1.jar
+13:18:12,140 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\codehaus\plexus\plexus-utils\3.0.8\plexus-utils-3.0.8.jar
+13:18:12,140 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\apache\maven\maven-artifact\3.0.4\maven-artifact-3.0.4.jar
+13:18:12,140 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\apache\maven\maven-plugin-api\3.0.4\maven-plugin-api-3.0.4.jar
+13:18:12,140 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\apache\maven\maven-model\3.0.4\maven-model-3.0.4.jar
+13:18:12,141 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\sonatype\sisu\sisu-inject-plexus\2.3.0\sisu-inject-plexus-2.3.0.jar
+13:18:12,141 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\codehaus\plexus\plexus-component-annotations\1.5.5\plexus-component-annotations-1.5.5.jar
+13:18:12,141 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\sonatype\sisu\sisu-inject-bean\2.3.0\sisu-inject-bean-2.3.0.jar
+13:18:12,141 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\sonatype\sisu\sisu-guice\3.1.0\sisu-guice-3.1.0-no_aop.jar
+13:18:12,141 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\sonatype\sisu\sisu-guava\0.9.9\sisu-guava-0.9.9.jar
+13:18:12,141 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\codehaus\plexus\plexus-container-default\1.5.5\plexus-container-default-1.5.5.jar
+13:18:12,142 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\codehaus\plexus\plexus-classworlds\2.2.2\plexus-classworlds-2.2.2.jar
+13:18:12,142 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\apache\xbean\xbean-reflect\3.4\xbean-reflect-3.4.jar
+13:18:12,142 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\log4j\log4j\1.2.12\log4j-1.2.12.jar
+13:18:12,142 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\commons-logging\commons-logging-api\1.1\commons-logging-api-1.1.jar
+13:18:12,142 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\com\google\collections\google-collections\1.0\google-collections-1.0.jar
+13:18:12,143 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\junit\junit\3.8.2\junit-3.8.2.jar
+13:18:12,143 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\Desktop\Javatos\target\classes
+13:18:12,143 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\datanucleus\datanucleus-core\5.2.7\datanucleus-core-5.2.7.jar
+13:18:12,143 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\datanucleus\datanucleus-api-jdo\5.2.6\datanucleus-api-jdo-5.2.6.jar
+13:18:12,143 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\datanucleus\datanucleus-rdbms\5.2.7\datanucleus-rdbms-5.2.7.jar
+13:18:12,143 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\datanucleus\javax.jdo\3.2.0-m13\javax.jdo-3.2.0-m13.jar
+13:18:12,143 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\javax\transaction\transaction-api\1.1\transaction-api-1.1.jar
+13:18:12,144 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\mysql\mysql-connector-java\5.1.45\mysql-connector-java-5.1.45.jar
+13:18:12,144 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar
+13:18:13,192 (main) ERROR [DataNucleus.Datastore.Schema] - La inicialización del base de datos ha fallado.
+Access denied for user 'ls8RYCUze2'@'83.41.126.169' (using password: YES)
+org.datanucleus.exceptions.NucleusDataStoreException: Access denied for user 'ls8RYCUze2'@'83.41.126.169' (using password: YES)
+	at org.datanucleus.store.rdbms.ConnectionFactoryImpl$ManagedConnectionImpl.getConnection(ConnectionFactoryImpl.java:513)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.<init>(RDBMSStoreManager.java:288)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.datanucleus.plugin.NonManagedPluginRegistry.createExecutableExtension(NonManagedPluginRegistry.java:651)
+	at org.datanucleus.plugin.PluginManager.createExecutableExtension(PluginManager.java:295)
+	at org.datanucleus.NucleusContextHelper.createStoreManagerForProperties(NucleusContextHelper.java:140)
+	at org.datanucleus.PersistenceNucleusContextImpl.initialise(PersistenceNucleusContextImpl.java:447)
+	at org.datanucleus.store.schema.SchemaTool.getNucleusContextForMode(SchemaTool.java:728)
+	at org.datanucleus.store.schema.SchemaTool.main(SchemaTool.java:299)
+Caused by: java.sql.SQLException: Access denied for user 'ls8RYCUze2'@'83.41.126.169' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:965)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3973)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3909)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:873)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1710)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1226)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2188)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2219)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2014)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:776)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:386)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:330)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:208)
+	at org.datanucleus.store.rdbms.datasource.dbcp2.DriverManagerConnectionFactory.createConnection(DriverManagerConnectionFactory.java:123)
+	at org.datanucleus.store.rdbms.datasource.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:353)
+	at org.datanucleus.store.rdbms.datasource.dbcp2.pool2.impl.GenericObjectPool.create(GenericObjectPool.java:899)
+	at org.datanucleus.store.rdbms.datasource.dbcp2.pool2.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:429)
+	at org.datanucleus.store.rdbms.datasource.dbcp2.pool2.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:354)
+	at org.datanucleus.store.rdbms.datasource.dbcp2.PoolingDataSource.getConnection(PoolingDataSource.java:132)
+	at org.datanucleus.store.rdbms.ConnectionFactoryImpl$ManagedConnectionImpl.getConnection(ConnectionFactoryImpl.java:496)
+	... 11 more
+Nested Throwables StackTrace:
+java.sql.SQLException: Access denied for user 'ls8RYCUze2'@'83.41.126.169' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:965)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3973)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3909)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:873)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1710)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1226)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2188)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2219)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2014)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:776)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:386)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:330)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:208)
+	at org.datanucleus.store.rdbms.datasource.dbcp2.DriverManagerConnectionFactory.createConnection(DriverManagerConnectionFactory.java:123)
+	at org.datanucleus.store.rdbms.datasource.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:353)
+	at org.datanucleus.store.rdbms.datasource.dbcp2.pool2.impl.GenericObjectPool.create(GenericObjectPool.java:899)
+	at org.datanucleus.store.rdbms.datasource.dbcp2.pool2.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:429)
+	at org.datanucleus.store.rdbms.datasource.dbcp2.pool2.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:354)
+	at org.datanucleus.store.rdbms.datasource.dbcp2.PoolingDataSource.getConnection(PoolingDataSource.java:132)
+	at org.datanucleus.store.rdbms.ConnectionFactoryImpl$ManagedConnectionImpl.getConnection(ConnectionFactoryImpl.java:496)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.<init>(RDBMSStoreManager.java:288)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.datanucleus.plugin.NonManagedPluginRegistry.createExecutableExtension(NonManagedPluginRegistry.java:651)
+	at org.datanucleus.plugin.PluginManager.createExecutableExtension(PluginManager.java:295)
+	at org.datanucleus.NucleusContextHelper.createStoreManagerForProperties(NucleusContextHelper.java:140)
+	at org.datanucleus.PersistenceNucleusContextImpl.initialise(PersistenceNucleusContextImpl.java:447)
+	at org.datanucleus.store.schema.SchemaTool.getNucleusContextForMode(SchemaTool.java:728)
+	at org.datanucleus.store.schema.SchemaTool.main(SchemaTool.java:299)
+13:18:13,194 (main) ERROR [DataNucleus.Datastore] - Exception thrown creating StoreManager : Access denied for user 'ls8RYCUze2'@'83.41.126.169' (using password: YES)
+13:18:13,194 (main) ERROR [DataNucleus.SchemaTool] - Error creating NucleusContext
+Access denied for user 'ls8RYCUze2'@'83.41.126.169' (using password: YES)
+org.datanucleus.exceptions.NucleusDataStoreException: Access denied for user 'ls8RYCUze2'@'83.41.126.169' (using password: YES)
+	at org.datanucleus.store.rdbms.ConnectionFactoryImpl$ManagedConnectionImpl.getConnection(ConnectionFactoryImpl.java:513)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.<init>(RDBMSStoreManager.java:288)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.datanucleus.plugin.NonManagedPluginRegistry.createExecutableExtension(NonManagedPluginRegistry.java:651)
+	at org.datanucleus.plugin.PluginManager.createExecutableExtension(PluginManager.java:295)
+	at org.datanucleus.NucleusContextHelper.createStoreManagerForProperties(NucleusContextHelper.java:140)
+	at org.datanucleus.PersistenceNucleusContextImpl.initialise(PersistenceNucleusContextImpl.java:447)
+	at org.datanucleus.store.schema.SchemaTool.getNucleusContextForMode(SchemaTool.java:728)
+	at org.datanucleus.store.schema.SchemaTool.main(SchemaTool.java:299)
+Caused by: java.sql.SQLException: Access denied for user 'ls8RYCUze2'@'83.41.126.169' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:965)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3973)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3909)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:873)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1710)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1226)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2188)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2219)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2014)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:776)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:386)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:330)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:208)
+	at org.datanucleus.store.rdbms.datasource.dbcp2.DriverManagerConnectionFactory.createConnection(DriverManagerConnectionFactory.java:123)
+	at org.datanucleus.store.rdbms.datasource.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:353)
+	at org.datanucleus.store.rdbms.datasource.dbcp2.pool2.impl.GenericObjectPool.create(GenericObjectPool.java:899)
+	at org.datanucleus.store.rdbms.datasource.dbcp2.pool2.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:429)
+	at org.datanucleus.store.rdbms.datasource.dbcp2.pool2.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:354)
+	at org.datanucleus.store.rdbms.datasource.dbcp2.PoolingDataSource.getConnection(PoolingDataSource.java:132)
+	at org.datanucleus.store.rdbms.ConnectionFactoryImpl$ManagedConnectionImpl.getConnection(ConnectionFactoryImpl.java:496)
+	... 11 more
+Nested Throwables StackTrace:
+java.sql.SQLException: Access denied for user 'ls8RYCUze2'@'83.41.126.169' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:965)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3973)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3909)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:873)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1710)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1226)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2188)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2219)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2014)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:776)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:386)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:330)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:208)
+	at org.datanucleus.store.rdbms.datasource.dbcp2.DriverManagerConnectionFactory.createConnection(DriverManagerConnectionFactory.java:123)
+	at org.datanucleus.store.rdbms.datasource.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:353)
+	at org.datanucleus.store.rdbms.datasource.dbcp2.pool2.impl.GenericObjectPool.create(GenericObjectPool.java:899)
+	at org.datanucleus.store.rdbms.datasource.dbcp2.pool2.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:429)
+	at org.datanucleus.store.rdbms.datasource.dbcp2.pool2.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:354)
+	at org.datanucleus.store.rdbms.datasource.dbcp2.PoolingDataSource.getConnection(PoolingDataSource.java:132)
+	at org.datanucleus.store.rdbms.ConnectionFactoryImpl$ManagedConnectionImpl.getConnection(ConnectionFactoryImpl.java:496)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.<init>(RDBMSStoreManager.java:288)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.datanucleus.plugin.NonManagedPluginRegistry.createExecutableExtension(NonManagedPluginRegistry.java:651)
+	at org.datanucleus.plugin.PluginManager.createExecutableExtension(PluginManager.java:295)
+	at org.datanucleus.NucleusContextHelper.createStoreManagerForProperties(NucleusContextHelper.java:140)
+	at org.datanucleus.PersistenceNucleusContextImpl.initialise(PersistenceNucleusContextImpl.java:447)
+	at org.datanucleus.store.schema.SchemaTool.getNucleusContextForMode(SchemaTool.java:728)
+	at org.datanucleus.store.schema.SchemaTool.main(SchemaTool.java:299)
+13:19:55,480 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 5.2.7) para el API "JDO" utilisando el JRE "{2}"
+13:19:55,829 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Commit.class" con definicion enhanced
+13:19:55,830 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : ld.Commit
+13:19:55,840 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Equipo.class" con definicion enhanced
+13:19:55,842 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : ld.Equipo
+13:19:55,848 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Organizacion.class" con definicion enhanced
+13:19:55,850 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : ld.Organizacion
+13:19:55,859 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Repositorio.class" con definicion enhanced
+13:19:55,861 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : ld.Repositorio
+13:19:55,867 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Topico.class" con definicion enhanced
+13:19:55,868 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : ld.Topico
+13:19:55,875 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Usuario.class" con definicion enhanced
+13:19:55,878 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : ld.Usuario
+13:19:55,879 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 6 clases. Tiempos : input=256 ms, enhance=128 ms, total=384 ms. Compruebe el LOG para los detalles
+13:20:16,352 (main) INFO  [DataNucleus.SchemaTool] - DataNucleus SchemaTool : Creación del esquema para clases
+13:20:16,353 (main) INFO  [DataNucleus.SchemaTool] - DataNucleus SchemaTool : Classpath
+13:20:16,354 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\datanucleus\datanucleus-maven-plugin\5.2.1\datanucleus-maven-plugin-5.2.1.jar
+13:20:16,354 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\codehaus\plexus\plexus-utils\3.0.8\plexus-utils-3.0.8.jar
+13:20:16,354 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\apache\maven\maven-artifact\3.0.4\maven-artifact-3.0.4.jar
+13:20:16,354 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\apache\maven\maven-plugin-api\3.0.4\maven-plugin-api-3.0.4.jar
+13:20:16,355 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\apache\maven\maven-model\3.0.4\maven-model-3.0.4.jar
+13:20:16,355 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\sonatype\sisu\sisu-inject-plexus\2.3.0\sisu-inject-plexus-2.3.0.jar
+13:20:16,355 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\codehaus\plexus\plexus-component-annotations\1.5.5\plexus-component-annotations-1.5.5.jar
+13:20:16,355 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\sonatype\sisu\sisu-inject-bean\2.3.0\sisu-inject-bean-2.3.0.jar
+13:20:16,355 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\sonatype\sisu\sisu-guice\3.1.0\sisu-guice-3.1.0-no_aop.jar
+13:20:16,355 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\sonatype\sisu\sisu-guava\0.9.9\sisu-guava-0.9.9.jar
+13:20:16,355 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\codehaus\plexus\plexus-container-default\1.5.5\plexus-container-default-1.5.5.jar
+13:20:16,355 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\codehaus\plexus\plexus-classworlds\2.2.2\plexus-classworlds-2.2.2.jar
+13:20:16,356 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\apache\xbean\xbean-reflect\3.4\xbean-reflect-3.4.jar
+13:20:16,356 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\log4j\log4j\1.2.12\log4j-1.2.12.jar
+13:20:16,356 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\commons-logging\commons-logging-api\1.1\commons-logging-api-1.1.jar
+13:20:16,356 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\com\google\collections\google-collections\1.0\google-collections-1.0.jar
+13:20:16,356 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\junit\junit\3.8.2\junit-3.8.2.jar
+13:20:16,356 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\Desktop\Javatos\target\classes
+13:20:16,356 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\datanucleus\datanucleus-core\5.2.7\datanucleus-core-5.2.7.jar
+13:20:16,356 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\datanucleus\datanucleus-api-jdo\5.2.6\datanucleus-api-jdo-5.2.6.jar
+13:20:16,357 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\datanucleus\datanucleus-rdbms\5.2.7\datanucleus-rdbms-5.2.7.jar
+13:20:16,357 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\datanucleus\javax.jdo\3.2.0-m13\javax.jdo-3.2.0-m13.jar
+13:20:16,357 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\javax\transaction\transaction-api\1.1\transaction-api-1.1.jar
+13:20:16,357 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\mysql\mysql-connector-java\5.1.45\mysql-connector-java-5.1.45.jar
+13:20:16,357 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar
+13:20:18,481 (main) INFO  [DataNucleus.SchemaTool] - DataNucleus SchemaTool : Propiedades para persistencia
+13:20:18,482 (main) INFO  [DataNucleus.SchemaTool] - >>  datanucleus.autostartmechanism=None
+13:20:18,483 (main) INFO  [DataNucleus.SchemaTool] - >>  datanucleus.connectionurl=jdbc:mysql://remotemysql.com:3306/lS8RYCUze2?verifyServerCertificate=false&useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
+13:20:18,483 (main) INFO  [DataNucleus.SchemaTool] - >>  datanucleus.connectionusername=lS8RYCUze2
+13:20:18,483 (main) INFO  [DataNucleus.SchemaTool] - >>  datanucleus.mapping=mysql
+13:20:18,484 (main) INFO  [DataNucleus.SchemaTool] - >>  datanucleus.rdbms.checkexisttablesorviews=true
+13:20:18,485 (main) INFO  [DataNucleus.SchemaTool] - >>  datanucleus.readonlydatastore=false
+13:20:18,486 (main) INFO  [DataNucleus.SchemaTool] - >>  datanucleus.schema.autocreatecolumns=true
+13:20:18,486 (main) INFO  [DataNucleus.SchemaTool] - >>  datanucleus.schema.autocreateconstraints=true
+13:20:18,487 (main) INFO  [DataNucleus.SchemaTool] - >>  datanucleus.schema.autocreatetables=true
+13:20:18,487 (main) INFO  [DataNucleus.SchemaTool] - DataNucleus SchemaTool : Ficheros
+13:20:18,487 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Commit.class
+13:20:18,487 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Equipo.class
+13:20:18,487 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Main.class
+13:20:18,487 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Organizacion.class
+13:20:18,487 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Repositorio.class
+13:20:18,487 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Topico.class
+13:20:18,488 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Usuario.class
+13:20:18,667 (main) ERROR [DataNucleus.Datastore.Schema] - Una excepcion estaba tirada durante la addicion/validacion de algunas class(es) : La generación del nuevo tipo de Mapping org.datanucleus.store.rdbms.mapping.java.CollectionMapping ha fallada : Clase "ld.Equipo" campo "miembrosEquipo" : tiene "mapped-by" de "equipo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+Clase "ld.Equipo" campo "miembrosEquipo" : tiene "mapped-by" de "equipo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+org.datanucleus.exceptions.NucleusUserException: Clase "ld.Equipo" campo "miembrosEquipo" : tiene "mapped-by" de "equipo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+	at org.datanucleus.metadata.AbstractMemberMetaData.setRelation(AbstractMemberMetaData.java:2739)
+	at org.datanucleus.metadata.AbstractMemberMetaData.getRelatedMemberMetaData(AbstractMemberMetaData.java:3002)
+	at org.datanucleus.store.rdbms.identifier.DNIdentifierFactory.newTableIdentifier(DNIdentifierFactory.java:133)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.addJoinTableForContainer(RDBMSStoreManager.java:3669)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.access$300(RDBMSStoreManager.java:2847)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.newJoinTable(RDBMSStoreManager.java:2817)
+	at org.datanucleus.store.rdbms.mapping.java.AbstractContainerMapping.initialize(AbstractContainerMapping.java:84)
+	at org.datanucleus.store.rdbms.mapping.MappingManagerImpl.getMapping(MappingManagerImpl.java:667)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageMembers(ClassTable.java:632)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageClass(ClassTable.java:538)
+	at org.datanucleus.store.rdbms.table.ClassTable.initializeForClass(ClassTable.java:1364)
+	at org.datanucleus.store.rdbms.table.ClassTable.initialize(ClassTable.java:270)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.initializeClassTables(RDBMSStoreManager.java:3318)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.run(RDBMSStoreManager.java:2938)
+	at org.datanucleus.store.rdbms.AbstractSchemaTransaction.execute(AbstractSchemaTransaction.java:118)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.createSchemaForClasses(RDBMSStoreManager.java:3925)
+	at org.datanucleus.store.schema.SchemaTool.createSchemaForClasses(SchemaTool.java:509)
+	at org.datanucleus.store.schema.SchemaTool.main(SchemaTool.java:425)
+
+La generación del nuevo tipo de Mapping org.datanucleus.store.rdbms.mapping.java.CollectionMapping ha fallada : Clase "ld.Equipo" campo "miembrosEquipo" : tiene "mapped-by" de "equipo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+Clase "ld.Equipo" campo "miembrosEquipo" : tiene "mapped-by" de "equipo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+org.datanucleus.exceptions.NucleusUserException: Clase "ld.Equipo" campo "miembrosEquipo" : tiene "mapped-by" de "equipo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+	at org.datanucleus.metadata.AbstractMemberMetaData.setRelation(AbstractMemberMetaData.java:2739)
+	at org.datanucleus.metadata.AbstractMemberMetaData.getRelatedMemberMetaData(AbstractMemberMetaData.java:3002)
+	at org.datanucleus.store.rdbms.identifier.DNIdentifierFactory.newTableIdentifier(DNIdentifierFactory.java:133)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.addJoinTableForContainer(RDBMSStoreManager.java:3669)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.access$300(RDBMSStoreManager.java:2847)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.newJoinTable(RDBMSStoreManager.java:2817)
+	at org.datanucleus.store.rdbms.mapping.java.AbstractContainerMapping.initialize(AbstractContainerMapping.java:84)
+	at org.datanucleus.store.rdbms.mapping.MappingManagerImpl.getMapping(MappingManagerImpl.java:667)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageMembers(ClassTable.java:632)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageClass(ClassTable.java:538)
+	at org.datanucleus.store.rdbms.table.ClassTable.initializeForClass(ClassTable.java:1364)
+	at org.datanucleus.store.rdbms.table.ClassTable.initialize(ClassTable.java:270)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.initializeClassTables(RDBMSStoreManager.java:3318)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.run(RDBMSStoreManager.java:2938)
+	at org.datanucleus.store.rdbms.AbstractSchemaTransaction.execute(AbstractSchemaTransaction.java:118)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.createSchemaForClasses(RDBMSStoreManager.java:3925)
+	at org.datanucleus.store.schema.SchemaTool.createSchemaForClasses(SchemaTool.java:509)
+	at org.datanucleus.store.schema.SchemaTool.main(SchemaTool.java:425)
+
+org.datanucleus.exceptions.NucleusException: La generación del nuevo tipo de Mapping org.datanucleus.store.rdbms.mapping.java.CollectionMapping ha fallada : Clase "ld.Equipo" campo "miembrosEquipo" : tiene "mapped-by" de "equipo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+Clase "ld.Equipo" campo "miembrosEquipo" : tiene "mapped-by" de "equipo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+org.datanucleus.exceptions.NucleusUserException: Clase "ld.Equipo" campo "miembrosEquipo" : tiene "mapped-by" de "equipo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+	at org.datanucleus.metadata.AbstractMemberMetaData.setRelation(AbstractMemberMetaData.java:2739)
+	at org.datanucleus.metadata.AbstractMemberMetaData.getRelatedMemberMetaData(AbstractMemberMetaData.java:3002)
+	at org.datanucleus.store.rdbms.identifier.DNIdentifierFactory.newTableIdentifier(DNIdentifierFactory.java:133)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.addJoinTableForContainer(RDBMSStoreManager.java:3669)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.access$300(RDBMSStoreManager.java:2847)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.newJoinTable(RDBMSStoreManager.java:2817)
+	at org.datanucleus.store.rdbms.mapping.java.AbstractContainerMapping.initialize(AbstractContainerMapping.java:84)
+	at org.datanucleus.store.rdbms.mapping.MappingManagerImpl.getMapping(MappingManagerImpl.java:667)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageMembers(ClassTable.java:632)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageClass(ClassTable.java:538)
+	at org.datanucleus.store.rdbms.table.ClassTable.initializeForClass(ClassTable.java:1364)
+	at org.datanucleus.store.rdbms.table.ClassTable.initialize(ClassTable.java:270)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.initializeClassTables(RDBMSStoreManager.java:3318)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.run(RDBMSStoreManager.java:2938)
+	at org.datanucleus.store.rdbms.AbstractSchemaTransaction.execute(AbstractSchemaTransaction.java:118)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.createSchemaForClasses(RDBMSStoreManager.java:3925)
+	at org.datanucleus.store.schema.SchemaTool.createSchemaForClasses(SchemaTool.java:509)
+	at org.datanucleus.store.schema.SchemaTool.main(SchemaTool.java:425)
+
+	at org.datanucleus.store.rdbms.mapping.MappingManagerImpl.getMapping(MappingManagerImpl.java:677)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageMembers(ClassTable.java:632)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageClass(ClassTable.java:538)
+	at org.datanucleus.store.rdbms.table.ClassTable.initializeForClass(ClassTable.java:1364)
+	at org.datanucleus.store.rdbms.table.ClassTable.initialize(ClassTable.java:270)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.initializeClassTables(RDBMSStoreManager.java:3318)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.run(RDBMSStoreManager.java:2938)
+	at org.datanucleus.store.rdbms.AbstractSchemaTransaction.execute(AbstractSchemaTransaction.java:118)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.createSchemaForClasses(RDBMSStoreManager.java:3925)
+	at org.datanucleus.store.schema.SchemaTool.createSchemaForClasses(SchemaTool.java:509)
+	at org.datanucleus.store.schema.SchemaTool.main(SchemaTool.java:425)
+Caused by: org.datanucleus.exceptions.NucleusUserException: Clase "ld.Equipo" campo "miembrosEquipo" : tiene "mapped-by" de "equipo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+	at org.datanucleus.metadata.AbstractMemberMetaData.setRelation(AbstractMemberMetaData.java:2739)
+	at org.datanucleus.metadata.AbstractMemberMetaData.getRelatedMemberMetaData(AbstractMemberMetaData.java:3002)
+	at org.datanucleus.store.rdbms.identifier.DNIdentifierFactory.newTableIdentifier(DNIdentifierFactory.java:133)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.addJoinTableForContainer(RDBMSStoreManager.java:3669)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.access$300(RDBMSStoreManager.java:2847)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.newJoinTable(RDBMSStoreManager.java:2817)
+	at org.datanucleus.store.rdbms.mapping.java.AbstractContainerMapping.initialize(AbstractContainerMapping.java:84)
+	at org.datanucleus.store.rdbms.mapping.MappingManagerImpl.getMapping(MappingManagerImpl.java:667)
+	... 10 more
+Nested Throwables StackTrace:
+Clase "ld.Equipo" campo "miembrosEquipo" : tiene "mapped-by" de "equipo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+org.datanucleus.exceptions.NucleusUserException: Clase "ld.Equipo" campo "miembrosEquipo" : tiene "mapped-by" de "equipo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+	at org.datanucleus.metadata.AbstractMemberMetaData.setRelation(AbstractMemberMetaData.java:2739)
+	at org.datanucleus.metadata.AbstractMemberMetaData.getRelatedMemberMetaData(AbstractMemberMetaData.java:3002)
+	at org.datanucleus.store.rdbms.identifier.DNIdentifierFactory.newTableIdentifier(DNIdentifierFactory.java:133)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.addJoinTableForContainer(RDBMSStoreManager.java:3669)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.access$300(RDBMSStoreManager.java:2847)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.newJoinTable(RDBMSStoreManager.java:2817)
+	at org.datanucleus.store.rdbms.mapping.java.AbstractContainerMapping.initialize(AbstractContainerMapping.java:84)
+	at org.datanucleus.store.rdbms.mapping.MappingManagerImpl.getMapping(MappingManagerImpl.java:667)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageMembers(ClassTable.java:632)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageClass(ClassTable.java:538)
+	at org.datanucleus.store.rdbms.table.ClassTable.initializeForClass(ClassTable.java:1364)
+	at org.datanucleus.store.rdbms.table.ClassTable.initialize(ClassTable.java:270)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.initializeClassTables(RDBMSStoreManager.java:3318)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.run(RDBMSStoreManager.java:2938)
+	at org.datanucleus.store.rdbms.AbstractSchemaTransaction.execute(AbstractSchemaTransaction.java:118)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.createSchemaForClasses(RDBMSStoreManager.java:3925)
+	at org.datanucleus.store.schema.SchemaTool.createSchemaForClasses(SchemaTool.java:509)
+	at org.datanucleus.store.schema.SchemaTool.main(SchemaTool.java:425)
+
+13:20:18,669 (main) ERROR [DataNucleus.SchemaTool] - DataNucleus SchemaTool ha lanzado una excepción. Por favor consulte el Log para ver más detalles: La generación del nuevo tipo de Mapping org.datanucleus.store.rdbms.mapping.java.CollectionMapping ha fallada : Clase "ld.Equipo" campo "miembrosEquipo" : tiene "mapped-by" de "equipo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+Clase "ld.Equipo" campo "miembrosEquipo" : tiene "mapped-by" de "equipo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+org.datanucleus.exceptions.NucleusUserException: Clase "ld.Equipo" campo "miembrosEquipo" : tiene "mapped-by" de "equipo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+	at org.datanucleus.metadata.AbstractMemberMetaData.setRelation(AbstractMemberMetaData.java:2739)
+	at org.datanucleus.metadata.AbstractMemberMetaData.getRelatedMemberMetaData(AbstractMemberMetaData.java:3002)
+	at org.datanucleus.store.rdbms.identifier.DNIdentifierFactory.newTableIdentifier(DNIdentifierFactory.java:133)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.addJoinTableForContainer(RDBMSStoreManager.java:3669)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.access$300(RDBMSStoreManager.java:2847)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.newJoinTable(RDBMSStoreManager.java:2817)
+	at org.datanucleus.store.rdbms.mapping.java.AbstractContainerMapping.initialize(AbstractContainerMapping.java:84)
+	at org.datanucleus.store.rdbms.mapping.MappingManagerImpl.getMapping(MappingManagerImpl.java:667)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageMembers(ClassTable.java:632)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageClass(ClassTable.java:538)
+	at org.datanucleus.store.rdbms.table.ClassTable.initializeForClass(ClassTable.java:1364)
+	at org.datanucleus.store.rdbms.table.ClassTable.initialize(ClassTable.java:270)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.initializeClassTables(RDBMSStoreManager.java:3318)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.run(RDBMSStoreManager.java:2938)
+	at org.datanucleus.store.rdbms.AbstractSchemaTransaction.execute(AbstractSchemaTransaction.java:118)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.createSchemaForClasses(RDBMSStoreManager.java:3925)
+	at org.datanucleus.store.schema.SchemaTool.createSchemaForClasses(SchemaTool.java:509)
+	at org.datanucleus.store.schema.SchemaTool.main(SchemaTool.java:425)
+
+La generación del nuevo tipo de Mapping org.datanucleus.store.rdbms.mapping.java.CollectionMapping ha fallada : Clase "ld.Equipo" campo "miembrosEquipo" : tiene "mapped-by" de "equipo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+Clase "ld.Equipo" campo "miembrosEquipo" : tiene "mapped-by" de "equipo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+org.datanucleus.exceptions.NucleusUserException: Clase "ld.Equipo" campo "miembrosEquipo" : tiene "mapped-by" de "equipo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+	at org.datanucleus.metadata.AbstractMemberMetaData.setRelation(AbstractMemberMetaData.java:2739)
+	at org.datanucleus.metadata.AbstractMemberMetaData.getRelatedMemberMetaData(AbstractMemberMetaData.java:3002)
+	at org.datanucleus.store.rdbms.identifier.DNIdentifierFactory.newTableIdentifier(DNIdentifierFactory.java:133)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.addJoinTableForContainer(RDBMSStoreManager.java:3669)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.access$300(RDBMSStoreManager.java:2847)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.newJoinTable(RDBMSStoreManager.java:2817)
+	at org.datanucleus.store.rdbms.mapping.java.AbstractContainerMapping.initialize(AbstractContainerMapping.java:84)
+	at org.datanucleus.store.rdbms.mapping.MappingManagerImpl.getMapping(MappingManagerImpl.java:667)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageMembers(ClassTable.java:632)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageClass(ClassTable.java:538)
+	at org.datanucleus.store.rdbms.table.ClassTable.initializeForClass(ClassTable.java:1364)
+	at org.datanucleus.store.rdbms.table.ClassTable.initialize(ClassTable.java:270)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.initializeClassTables(RDBMSStoreManager.java:3318)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.run(RDBMSStoreManager.java:2938)
+	at org.datanucleus.store.rdbms.AbstractSchemaTransaction.execute(AbstractSchemaTransaction.java:118)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.createSchemaForClasses(RDBMSStoreManager.java:3925)
+	at org.datanucleus.store.schema.SchemaTool.createSchemaForClasses(SchemaTool.java:509)
+	at org.datanucleus.store.schema.SchemaTool.main(SchemaTool.java:425)
+
+org.datanucleus.exceptions.NucleusException: La generación del nuevo tipo de Mapping org.datanucleus.store.rdbms.mapping.java.CollectionMapping ha fallada : Clase "ld.Equipo" campo "miembrosEquipo" : tiene "mapped-by" de "equipo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+Clase "ld.Equipo" campo "miembrosEquipo" : tiene "mapped-by" de "equipo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+org.datanucleus.exceptions.NucleusUserException: Clase "ld.Equipo" campo "miembrosEquipo" : tiene "mapped-by" de "equipo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+	at org.datanucleus.metadata.AbstractMemberMetaData.setRelation(AbstractMemberMetaData.java:2739)
+	at org.datanucleus.metadata.AbstractMemberMetaData.getRelatedMemberMetaData(AbstractMemberMetaData.java:3002)
+	at org.datanucleus.store.rdbms.identifier.DNIdentifierFactory.newTableIdentifier(DNIdentifierFactory.java:133)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.addJoinTableForContainer(RDBMSStoreManager.java:3669)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.access$300(RDBMSStoreManager.java:2847)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.newJoinTable(RDBMSStoreManager.java:2817)
+	at org.datanucleus.store.rdbms.mapping.java.AbstractContainerMapping.initialize(AbstractContainerMapping.java:84)
+	at org.datanucleus.store.rdbms.mapping.MappingManagerImpl.getMapping(MappingManagerImpl.java:667)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageMembers(ClassTable.java:632)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageClass(ClassTable.java:538)
+	at org.datanucleus.store.rdbms.table.ClassTable.initializeForClass(ClassTable.java:1364)
+	at org.datanucleus.store.rdbms.table.ClassTable.initialize(ClassTable.java:270)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.initializeClassTables(RDBMSStoreManager.java:3318)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.run(RDBMSStoreManager.java:2938)
+	at org.datanucleus.store.rdbms.AbstractSchemaTransaction.execute(AbstractSchemaTransaction.java:118)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.createSchemaForClasses(RDBMSStoreManager.java:3925)
+	at org.datanucleus.store.schema.SchemaTool.createSchemaForClasses(SchemaTool.java:509)
+	at org.datanucleus.store.schema.SchemaTool.main(SchemaTool.java:425)
+
+	at org.datanucleus.store.rdbms.mapping.MappingManagerImpl.getMapping(MappingManagerImpl.java:677)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageMembers(ClassTable.java:632)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageClass(ClassTable.java:538)
+	at org.datanucleus.store.rdbms.table.ClassTable.initializeForClass(ClassTable.java:1364)
+	at org.datanucleus.store.rdbms.table.ClassTable.initialize(ClassTable.java:270)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.initializeClassTables(RDBMSStoreManager.java:3318)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.run(RDBMSStoreManager.java:2938)
+	at org.datanucleus.store.rdbms.AbstractSchemaTransaction.execute(AbstractSchemaTransaction.java:118)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.createSchemaForClasses(RDBMSStoreManager.java:3925)
+	at org.datanucleus.store.schema.SchemaTool.createSchemaForClasses(SchemaTool.java:509)
+	at org.datanucleus.store.schema.SchemaTool.main(SchemaTool.java:425)
+Caused by: org.datanucleus.exceptions.NucleusUserException: Clase "ld.Equipo" campo "miembrosEquipo" : tiene "mapped-by" de "equipo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+	at org.datanucleus.metadata.AbstractMemberMetaData.setRelation(AbstractMemberMetaData.java:2739)
+	at org.datanucleus.metadata.AbstractMemberMetaData.getRelatedMemberMetaData(AbstractMemberMetaData.java:3002)
+	at org.datanucleus.store.rdbms.identifier.DNIdentifierFactory.newTableIdentifier(DNIdentifierFactory.java:133)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.addJoinTableForContainer(RDBMSStoreManager.java:3669)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.access$300(RDBMSStoreManager.java:2847)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.newJoinTable(RDBMSStoreManager.java:2817)
+	at org.datanucleus.store.rdbms.mapping.java.AbstractContainerMapping.initialize(AbstractContainerMapping.java:84)
+	at org.datanucleus.store.rdbms.mapping.MappingManagerImpl.getMapping(MappingManagerImpl.java:667)
+	... 10 more
+Nested Throwables StackTrace:
+Clase "ld.Equipo" campo "miembrosEquipo" : tiene "mapped-by" de "equipo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+org.datanucleus.exceptions.NucleusUserException: Clase "ld.Equipo" campo "miembrosEquipo" : tiene "mapped-by" de "equipo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+	at org.datanucleus.metadata.AbstractMemberMetaData.setRelation(AbstractMemberMetaData.java:2739)
+	at org.datanucleus.metadata.AbstractMemberMetaData.getRelatedMemberMetaData(AbstractMemberMetaData.java:3002)
+	at org.datanucleus.store.rdbms.identifier.DNIdentifierFactory.newTableIdentifier(DNIdentifierFactory.java:133)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.addJoinTableForContainer(RDBMSStoreManager.java:3669)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.access$300(RDBMSStoreManager.java:2847)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.newJoinTable(RDBMSStoreManager.java:2817)
+	at org.datanucleus.store.rdbms.mapping.java.AbstractContainerMapping.initialize(AbstractContainerMapping.java:84)
+	at org.datanucleus.store.rdbms.mapping.MappingManagerImpl.getMapping(MappingManagerImpl.java:667)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageMembers(ClassTable.java:632)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageClass(ClassTable.java:538)
+	at org.datanucleus.store.rdbms.table.ClassTable.initializeForClass(ClassTable.java:1364)
+	at org.datanucleus.store.rdbms.table.ClassTable.initialize(ClassTable.java:270)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.initializeClassTables(RDBMSStoreManager.java:3318)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.run(RDBMSStoreManager.java:2938)
+	at org.datanucleus.store.rdbms.AbstractSchemaTransaction.execute(AbstractSchemaTransaction.java:118)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.createSchemaForClasses(RDBMSStoreManager.java:3925)
+	at org.datanucleus.store.schema.SchemaTool.createSchemaForClasses(SchemaTool.java:509)
+	at org.datanucleus.store.schema.SchemaTool.main(SchemaTool.java:425)
+13:23:51,398 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 5.2.7) para el API "JDO" utilisando el JRE "{2}"
+13:23:51,752 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Commit.class" con definicion enhanced
+13:23:51,754 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : ld.Commit
+13:23:51,763 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Equipo.class" con definicion enhanced
+13:23:51,765 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : ld.Equipo
+13:23:51,772 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Organizacion.class" con definicion enhanced
+13:23:51,773 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : ld.Organizacion
+13:23:51,783 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Repositorio.class" con definicion enhanced
+13:23:51,786 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : ld.Repositorio
+13:23:51,793 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Topico.class" con definicion enhanced
+13:23:51,795 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : ld.Topico
+13:23:51,804 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Usuario.class" con definicion enhanced
+13:23:51,806 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : ld.Usuario
+13:23:51,808 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 6 clases. Tiempos : input=248 ms, enhance=151 ms, total=399 ms. Compruebe el LOG para los detalles
+13:24:08,716 (main) INFO  [DataNucleus.SchemaTool] - DataNucleus SchemaTool : Creación del esquema para clases
+13:24:08,719 (main) INFO  [DataNucleus.SchemaTool] - DataNucleus SchemaTool : Classpath
+13:24:08,722 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\datanucleus\datanucleus-maven-plugin\5.2.1\datanucleus-maven-plugin-5.2.1.jar
+13:24:08,723 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\codehaus\plexus\plexus-utils\3.0.8\plexus-utils-3.0.8.jar
+13:24:08,724 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\apache\maven\maven-artifact\3.0.4\maven-artifact-3.0.4.jar
+13:24:08,725 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\apache\maven\maven-plugin-api\3.0.4\maven-plugin-api-3.0.4.jar
+13:24:08,726 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\apache\maven\maven-model\3.0.4\maven-model-3.0.4.jar
+13:24:08,726 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\sonatype\sisu\sisu-inject-plexus\2.3.0\sisu-inject-plexus-2.3.0.jar
+13:24:08,726 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\codehaus\plexus\plexus-component-annotations\1.5.5\plexus-component-annotations-1.5.5.jar
+13:24:08,727 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\sonatype\sisu\sisu-inject-bean\2.3.0\sisu-inject-bean-2.3.0.jar
+13:24:08,728 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\sonatype\sisu\sisu-guice\3.1.0\sisu-guice-3.1.0-no_aop.jar
+13:24:08,728 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\sonatype\sisu\sisu-guava\0.9.9\sisu-guava-0.9.9.jar
+13:24:08,728 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\codehaus\plexus\plexus-container-default\1.5.5\plexus-container-default-1.5.5.jar
+13:24:08,729 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\codehaus\plexus\plexus-classworlds\2.2.2\plexus-classworlds-2.2.2.jar
+13:24:08,729 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\apache\xbean\xbean-reflect\3.4\xbean-reflect-3.4.jar
+13:24:08,730 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\log4j\log4j\1.2.12\log4j-1.2.12.jar
+13:24:08,734 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\commons-logging\commons-logging-api\1.1\commons-logging-api-1.1.jar
+13:24:08,734 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\com\google\collections\google-collections\1.0\google-collections-1.0.jar
+13:24:08,735 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\junit\junit\3.8.2\junit-3.8.2.jar
+13:24:08,736 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\Desktop\Javatos\target\classes
+13:24:08,736 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\datanucleus\datanucleus-core\5.2.7\datanucleus-core-5.2.7.jar
+13:24:08,736 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\datanucleus\datanucleus-api-jdo\5.2.6\datanucleus-api-jdo-5.2.6.jar
+13:24:08,737 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\datanucleus\datanucleus-rdbms\5.2.7\datanucleus-rdbms-5.2.7.jar
+13:24:08,738 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\datanucleus\javax.jdo\3.2.0-m13\javax.jdo-3.2.0-m13.jar
+13:24:08,739 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\javax\transaction\transaction-api\1.1\transaction-api-1.1.jar
+13:24:08,739 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\mysql\mysql-connector-java\5.1.45\mysql-connector-java-5.1.45.jar
+13:24:08,739 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar
+13:24:11,258 (main) INFO  [DataNucleus.SchemaTool] - DataNucleus SchemaTool : Propiedades para persistencia
+13:24:11,259 (main) INFO  [DataNucleus.SchemaTool] - >>  datanucleus.autostartmechanism=None
+13:24:11,259 (main) INFO  [DataNucleus.SchemaTool] - >>  datanucleus.connectionurl=jdbc:mysql://remotemysql.com:3306/lS8RYCUze2?verifyServerCertificate=false&useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
+13:24:11,259 (main) INFO  [DataNucleus.SchemaTool] - >>  datanucleus.connectionusername=lS8RYCUze2
+13:24:11,259 (main) INFO  [DataNucleus.SchemaTool] - >>  datanucleus.mapping=mysql
+13:24:11,259 (main) INFO  [DataNucleus.SchemaTool] - >>  datanucleus.rdbms.checkexisttablesorviews=true
+13:24:11,259 (main) INFO  [DataNucleus.SchemaTool] - >>  datanucleus.readonlydatastore=false
+13:24:11,259 (main) INFO  [DataNucleus.SchemaTool] - >>  datanucleus.schema.autocreatecolumns=true
+13:24:11,259 (main) INFO  [DataNucleus.SchemaTool] - >>  datanucleus.schema.autocreateconstraints=true
+13:24:11,260 (main) INFO  [DataNucleus.SchemaTool] - >>  datanucleus.schema.autocreatetables=true
+13:24:11,260 (main) INFO  [DataNucleus.SchemaTool] - DataNucleus SchemaTool : Ficheros
+13:24:11,260 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Commit.class
+13:24:11,260 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Equipo.class
+13:24:11,260 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Main.class
+13:24:11,260 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Organizacion.class
+13:24:11,260 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Repositorio.class
+13:24:11,261 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Topico.class
+13:24:11,261 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Usuario.class
+13:24:11,501 (main) ERROR [DataNucleus.Datastore.Schema] - Una excepcion estaba tirada durante la addicion/validacion de algunas class(es) : La generación del nuevo tipo de Mapping org.datanucleus.store.rdbms.mapping.java.CollectionMapping ha fallada : Clase "ld.Repositorio" campo "miembrosRepo" : tiene "mapped-by" de "repo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+Clase "ld.Repositorio" campo "miembrosRepo" : tiene "mapped-by" de "repo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+org.datanucleus.exceptions.NucleusUserException: Clase "ld.Repositorio" campo "miembrosRepo" : tiene "mapped-by" de "repo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+	at org.datanucleus.metadata.AbstractMemberMetaData.setRelation(AbstractMemberMetaData.java:2739)
+	at org.datanucleus.metadata.AbstractMemberMetaData.getRelatedMemberMetaData(AbstractMemberMetaData.java:3002)
+	at org.datanucleus.store.rdbms.identifier.DNIdentifierFactory.newTableIdentifier(DNIdentifierFactory.java:133)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.addJoinTableForContainer(RDBMSStoreManager.java:3669)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.access$300(RDBMSStoreManager.java:2847)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.newJoinTable(RDBMSStoreManager.java:2817)
+	at org.datanucleus.store.rdbms.mapping.java.AbstractContainerMapping.initialize(AbstractContainerMapping.java:84)
+	at org.datanucleus.store.rdbms.mapping.MappingManagerImpl.getMapping(MappingManagerImpl.java:667)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageMembers(ClassTable.java:632)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageClass(ClassTable.java:538)
+	at org.datanucleus.store.rdbms.table.ClassTable.initializeForClass(ClassTable.java:1364)
+	at org.datanucleus.store.rdbms.table.ClassTable.initialize(ClassTable.java:270)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.initializeClassTables(RDBMSStoreManager.java:3318)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.run(RDBMSStoreManager.java:2938)
+	at org.datanucleus.store.rdbms.AbstractSchemaTransaction.execute(AbstractSchemaTransaction.java:118)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.createSchemaForClasses(RDBMSStoreManager.java:3925)
+	at org.datanucleus.store.schema.SchemaTool.createSchemaForClasses(SchemaTool.java:509)
+	at org.datanucleus.store.schema.SchemaTool.main(SchemaTool.java:425)
+
+La generación del nuevo tipo de Mapping org.datanucleus.store.rdbms.mapping.java.CollectionMapping ha fallada : Clase "ld.Repositorio" campo "miembrosRepo" : tiene "mapped-by" de "repo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+Clase "ld.Repositorio" campo "miembrosRepo" : tiene "mapped-by" de "repo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+org.datanucleus.exceptions.NucleusUserException: Clase "ld.Repositorio" campo "miembrosRepo" : tiene "mapped-by" de "repo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+	at org.datanucleus.metadata.AbstractMemberMetaData.setRelation(AbstractMemberMetaData.java:2739)
+	at org.datanucleus.metadata.AbstractMemberMetaData.getRelatedMemberMetaData(AbstractMemberMetaData.java:3002)
+	at org.datanucleus.store.rdbms.identifier.DNIdentifierFactory.newTableIdentifier(DNIdentifierFactory.java:133)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.addJoinTableForContainer(RDBMSStoreManager.java:3669)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.access$300(RDBMSStoreManager.java:2847)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.newJoinTable(RDBMSStoreManager.java:2817)
+	at org.datanucleus.store.rdbms.mapping.java.AbstractContainerMapping.initialize(AbstractContainerMapping.java:84)
+	at org.datanucleus.store.rdbms.mapping.MappingManagerImpl.getMapping(MappingManagerImpl.java:667)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageMembers(ClassTable.java:632)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageClass(ClassTable.java:538)
+	at org.datanucleus.store.rdbms.table.ClassTable.initializeForClass(ClassTable.java:1364)
+	at org.datanucleus.store.rdbms.table.ClassTable.initialize(ClassTable.java:270)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.initializeClassTables(RDBMSStoreManager.java:3318)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.run(RDBMSStoreManager.java:2938)
+	at org.datanucleus.store.rdbms.AbstractSchemaTransaction.execute(AbstractSchemaTransaction.java:118)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.createSchemaForClasses(RDBMSStoreManager.java:3925)
+	at org.datanucleus.store.schema.SchemaTool.createSchemaForClasses(SchemaTool.java:509)
+	at org.datanucleus.store.schema.SchemaTool.main(SchemaTool.java:425)
+
+org.datanucleus.exceptions.NucleusException: La generación del nuevo tipo de Mapping org.datanucleus.store.rdbms.mapping.java.CollectionMapping ha fallada : Clase "ld.Repositorio" campo "miembrosRepo" : tiene "mapped-by" de "repo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+Clase "ld.Repositorio" campo "miembrosRepo" : tiene "mapped-by" de "repo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+org.datanucleus.exceptions.NucleusUserException: Clase "ld.Repositorio" campo "miembrosRepo" : tiene "mapped-by" de "repo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+	at org.datanucleus.metadata.AbstractMemberMetaData.setRelation(AbstractMemberMetaData.java:2739)
+	at org.datanucleus.metadata.AbstractMemberMetaData.getRelatedMemberMetaData(AbstractMemberMetaData.java:3002)
+	at org.datanucleus.store.rdbms.identifier.DNIdentifierFactory.newTableIdentifier(DNIdentifierFactory.java:133)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.addJoinTableForContainer(RDBMSStoreManager.java:3669)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.access$300(RDBMSStoreManager.java:2847)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.newJoinTable(RDBMSStoreManager.java:2817)
+	at org.datanucleus.store.rdbms.mapping.java.AbstractContainerMapping.initialize(AbstractContainerMapping.java:84)
+	at org.datanucleus.store.rdbms.mapping.MappingManagerImpl.getMapping(MappingManagerImpl.java:667)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageMembers(ClassTable.java:632)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageClass(ClassTable.java:538)
+	at org.datanucleus.store.rdbms.table.ClassTable.initializeForClass(ClassTable.java:1364)
+	at org.datanucleus.store.rdbms.table.ClassTable.initialize(ClassTable.java:270)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.initializeClassTables(RDBMSStoreManager.java:3318)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.run(RDBMSStoreManager.java:2938)
+	at org.datanucleus.store.rdbms.AbstractSchemaTransaction.execute(AbstractSchemaTransaction.java:118)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.createSchemaForClasses(RDBMSStoreManager.java:3925)
+	at org.datanucleus.store.schema.SchemaTool.createSchemaForClasses(SchemaTool.java:509)
+	at org.datanucleus.store.schema.SchemaTool.main(SchemaTool.java:425)
+
+	at org.datanucleus.store.rdbms.mapping.MappingManagerImpl.getMapping(MappingManagerImpl.java:677)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageMembers(ClassTable.java:632)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageClass(ClassTable.java:538)
+	at org.datanucleus.store.rdbms.table.ClassTable.initializeForClass(ClassTable.java:1364)
+	at org.datanucleus.store.rdbms.table.ClassTable.initialize(ClassTable.java:270)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.initializeClassTables(RDBMSStoreManager.java:3318)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.run(RDBMSStoreManager.java:2938)
+	at org.datanucleus.store.rdbms.AbstractSchemaTransaction.execute(AbstractSchemaTransaction.java:118)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.createSchemaForClasses(RDBMSStoreManager.java:3925)
+	at org.datanucleus.store.schema.SchemaTool.createSchemaForClasses(SchemaTool.java:509)
+	at org.datanucleus.store.schema.SchemaTool.main(SchemaTool.java:425)
+Caused by: org.datanucleus.exceptions.NucleusUserException: Clase "ld.Repositorio" campo "miembrosRepo" : tiene "mapped-by" de "repo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+	at org.datanucleus.metadata.AbstractMemberMetaData.setRelation(AbstractMemberMetaData.java:2739)
+	at org.datanucleus.metadata.AbstractMemberMetaData.getRelatedMemberMetaData(AbstractMemberMetaData.java:3002)
+	at org.datanucleus.store.rdbms.identifier.DNIdentifierFactory.newTableIdentifier(DNIdentifierFactory.java:133)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.addJoinTableForContainer(RDBMSStoreManager.java:3669)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.access$300(RDBMSStoreManager.java:2847)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.newJoinTable(RDBMSStoreManager.java:2817)
+	at org.datanucleus.store.rdbms.mapping.java.AbstractContainerMapping.initialize(AbstractContainerMapping.java:84)
+	at org.datanucleus.store.rdbms.mapping.MappingManagerImpl.getMapping(MappingManagerImpl.java:667)
+	... 10 more
+Nested Throwables StackTrace:
+Clase "ld.Repositorio" campo "miembrosRepo" : tiene "mapped-by" de "repo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+org.datanucleus.exceptions.NucleusUserException: Clase "ld.Repositorio" campo "miembrosRepo" : tiene "mapped-by" de "repo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+	at org.datanucleus.metadata.AbstractMemberMetaData.setRelation(AbstractMemberMetaData.java:2739)
+	at org.datanucleus.metadata.AbstractMemberMetaData.getRelatedMemberMetaData(AbstractMemberMetaData.java:3002)
+	at org.datanucleus.store.rdbms.identifier.DNIdentifierFactory.newTableIdentifier(DNIdentifierFactory.java:133)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.addJoinTableForContainer(RDBMSStoreManager.java:3669)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.access$300(RDBMSStoreManager.java:2847)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.newJoinTable(RDBMSStoreManager.java:2817)
+	at org.datanucleus.store.rdbms.mapping.java.AbstractContainerMapping.initialize(AbstractContainerMapping.java:84)
+	at org.datanucleus.store.rdbms.mapping.MappingManagerImpl.getMapping(MappingManagerImpl.java:667)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageMembers(ClassTable.java:632)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageClass(ClassTable.java:538)
+	at org.datanucleus.store.rdbms.table.ClassTable.initializeForClass(ClassTable.java:1364)
+	at org.datanucleus.store.rdbms.table.ClassTable.initialize(ClassTable.java:270)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.initializeClassTables(RDBMSStoreManager.java:3318)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.run(RDBMSStoreManager.java:2938)
+	at org.datanucleus.store.rdbms.AbstractSchemaTransaction.execute(AbstractSchemaTransaction.java:118)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.createSchemaForClasses(RDBMSStoreManager.java:3925)
+	at org.datanucleus.store.schema.SchemaTool.createSchemaForClasses(SchemaTool.java:509)
+	at org.datanucleus.store.schema.SchemaTool.main(SchemaTool.java:425)
+
+13:24:11,503 (main) ERROR [DataNucleus.SchemaTool] - DataNucleus SchemaTool ha lanzado una excepción. Por favor consulte el Log para ver más detalles: La generación del nuevo tipo de Mapping org.datanucleus.store.rdbms.mapping.java.CollectionMapping ha fallada : Clase "ld.Repositorio" campo "miembrosRepo" : tiene "mapped-by" de "repo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+Clase "ld.Repositorio" campo "miembrosRepo" : tiene "mapped-by" de "repo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+org.datanucleus.exceptions.NucleusUserException: Clase "ld.Repositorio" campo "miembrosRepo" : tiene "mapped-by" de "repo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+	at org.datanucleus.metadata.AbstractMemberMetaData.setRelation(AbstractMemberMetaData.java:2739)
+	at org.datanucleus.metadata.AbstractMemberMetaData.getRelatedMemberMetaData(AbstractMemberMetaData.java:3002)
+	at org.datanucleus.store.rdbms.identifier.DNIdentifierFactory.newTableIdentifier(DNIdentifierFactory.java:133)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.addJoinTableForContainer(RDBMSStoreManager.java:3669)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.access$300(RDBMSStoreManager.java:2847)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.newJoinTable(RDBMSStoreManager.java:2817)
+	at org.datanucleus.store.rdbms.mapping.java.AbstractContainerMapping.initialize(AbstractContainerMapping.java:84)
+	at org.datanucleus.store.rdbms.mapping.MappingManagerImpl.getMapping(MappingManagerImpl.java:667)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageMembers(ClassTable.java:632)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageClass(ClassTable.java:538)
+	at org.datanucleus.store.rdbms.table.ClassTable.initializeForClass(ClassTable.java:1364)
+	at org.datanucleus.store.rdbms.table.ClassTable.initialize(ClassTable.java:270)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.initializeClassTables(RDBMSStoreManager.java:3318)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.run(RDBMSStoreManager.java:2938)
+	at org.datanucleus.store.rdbms.AbstractSchemaTransaction.execute(AbstractSchemaTransaction.java:118)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.createSchemaForClasses(RDBMSStoreManager.java:3925)
+	at org.datanucleus.store.schema.SchemaTool.createSchemaForClasses(SchemaTool.java:509)
+	at org.datanucleus.store.schema.SchemaTool.main(SchemaTool.java:425)
+
+La generación del nuevo tipo de Mapping org.datanucleus.store.rdbms.mapping.java.CollectionMapping ha fallada : Clase "ld.Repositorio" campo "miembrosRepo" : tiene "mapped-by" de "repo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+Clase "ld.Repositorio" campo "miembrosRepo" : tiene "mapped-by" de "repo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+org.datanucleus.exceptions.NucleusUserException: Clase "ld.Repositorio" campo "miembrosRepo" : tiene "mapped-by" de "repo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+	at org.datanucleus.metadata.AbstractMemberMetaData.setRelation(AbstractMemberMetaData.java:2739)
+	at org.datanucleus.metadata.AbstractMemberMetaData.getRelatedMemberMetaData(AbstractMemberMetaData.java:3002)
+	at org.datanucleus.store.rdbms.identifier.DNIdentifierFactory.newTableIdentifier(DNIdentifierFactory.java:133)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.addJoinTableForContainer(RDBMSStoreManager.java:3669)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.access$300(RDBMSStoreManager.java:2847)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.newJoinTable(RDBMSStoreManager.java:2817)
+	at org.datanucleus.store.rdbms.mapping.java.AbstractContainerMapping.initialize(AbstractContainerMapping.java:84)
+	at org.datanucleus.store.rdbms.mapping.MappingManagerImpl.getMapping(MappingManagerImpl.java:667)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageMembers(ClassTable.java:632)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageClass(ClassTable.java:538)
+	at org.datanucleus.store.rdbms.table.ClassTable.initializeForClass(ClassTable.java:1364)
+	at org.datanucleus.store.rdbms.table.ClassTable.initialize(ClassTable.java:270)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.initializeClassTables(RDBMSStoreManager.java:3318)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.run(RDBMSStoreManager.java:2938)
+	at org.datanucleus.store.rdbms.AbstractSchemaTransaction.execute(AbstractSchemaTransaction.java:118)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.createSchemaForClasses(RDBMSStoreManager.java:3925)
+	at org.datanucleus.store.schema.SchemaTool.createSchemaForClasses(SchemaTool.java:509)
+	at org.datanucleus.store.schema.SchemaTool.main(SchemaTool.java:425)
+
+org.datanucleus.exceptions.NucleusException: La generación del nuevo tipo de Mapping org.datanucleus.store.rdbms.mapping.java.CollectionMapping ha fallada : Clase "ld.Repositorio" campo "miembrosRepo" : tiene "mapped-by" de "repo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+Clase "ld.Repositorio" campo "miembrosRepo" : tiene "mapped-by" de "repo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+org.datanucleus.exceptions.NucleusUserException: Clase "ld.Repositorio" campo "miembrosRepo" : tiene "mapped-by" de "repo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+	at org.datanucleus.metadata.AbstractMemberMetaData.setRelation(AbstractMemberMetaData.java:2739)
+	at org.datanucleus.metadata.AbstractMemberMetaData.getRelatedMemberMetaData(AbstractMemberMetaData.java:3002)
+	at org.datanucleus.store.rdbms.identifier.DNIdentifierFactory.newTableIdentifier(DNIdentifierFactory.java:133)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.addJoinTableForContainer(RDBMSStoreManager.java:3669)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.access$300(RDBMSStoreManager.java:2847)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.newJoinTable(RDBMSStoreManager.java:2817)
+	at org.datanucleus.store.rdbms.mapping.java.AbstractContainerMapping.initialize(AbstractContainerMapping.java:84)
+	at org.datanucleus.store.rdbms.mapping.MappingManagerImpl.getMapping(MappingManagerImpl.java:667)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageMembers(ClassTable.java:632)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageClass(ClassTable.java:538)
+	at org.datanucleus.store.rdbms.table.ClassTable.initializeForClass(ClassTable.java:1364)
+	at org.datanucleus.store.rdbms.table.ClassTable.initialize(ClassTable.java:270)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.initializeClassTables(RDBMSStoreManager.java:3318)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.run(RDBMSStoreManager.java:2938)
+	at org.datanucleus.store.rdbms.AbstractSchemaTransaction.execute(AbstractSchemaTransaction.java:118)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.createSchemaForClasses(RDBMSStoreManager.java:3925)
+	at org.datanucleus.store.schema.SchemaTool.createSchemaForClasses(SchemaTool.java:509)
+	at org.datanucleus.store.schema.SchemaTool.main(SchemaTool.java:425)
+
+	at org.datanucleus.store.rdbms.mapping.MappingManagerImpl.getMapping(MappingManagerImpl.java:677)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageMembers(ClassTable.java:632)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageClass(ClassTable.java:538)
+	at org.datanucleus.store.rdbms.table.ClassTable.initializeForClass(ClassTable.java:1364)
+	at org.datanucleus.store.rdbms.table.ClassTable.initialize(ClassTable.java:270)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.initializeClassTables(RDBMSStoreManager.java:3318)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.run(RDBMSStoreManager.java:2938)
+	at org.datanucleus.store.rdbms.AbstractSchemaTransaction.execute(AbstractSchemaTransaction.java:118)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.createSchemaForClasses(RDBMSStoreManager.java:3925)
+	at org.datanucleus.store.schema.SchemaTool.createSchemaForClasses(SchemaTool.java:509)
+	at org.datanucleus.store.schema.SchemaTool.main(SchemaTool.java:425)
+Caused by: org.datanucleus.exceptions.NucleusUserException: Clase "ld.Repositorio" campo "miembrosRepo" : tiene "mapped-by" de "repo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+	at org.datanucleus.metadata.AbstractMemberMetaData.setRelation(AbstractMemberMetaData.java:2739)
+	at org.datanucleus.metadata.AbstractMemberMetaData.getRelatedMemberMetaData(AbstractMemberMetaData.java:3002)
+	at org.datanucleus.store.rdbms.identifier.DNIdentifierFactory.newTableIdentifier(DNIdentifierFactory.java:133)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.addJoinTableForContainer(RDBMSStoreManager.java:3669)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.access$300(RDBMSStoreManager.java:2847)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.newJoinTable(RDBMSStoreManager.java:2817)
+	at org.datanucleus.store.rdbms.mapping.java.AbstractContainerMapping.initialize(AbstractContainerMapping.java:84)
+	at org.datanucleus.store.rdbms.mapping.MappingManagerImpl.getMapping(MappingManagerImpl.java:667)
+	... 10 more
+Nested Throwables StackTrace:
+Clase "ld.Repositorio" campo "miembrosRepo" : tiene "mapped-by" de "repo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+org.datanucleus.exceptions.NucleusUserException: Clase "ld.Repositorio" campo "miembrosRepo" : tiene "mapped-by" de "repo". Este campo no existe en el otro lado de la relación ("ld.Usuario")!!
+	at org.datanucleus.metadata.AbstractMemberMetaData.setRelation(AbstractMemberMetaData.java:2739)
+	at org.datanucleus.metadata.AbstractMemberMetaData.getRelatedMemberMetaData(AbstractMemberMetaData.java:3002)
+	at org.datanucleus.store.rdbms.identifier.DNIdentifierFactory.newTableIdentifier(DNIdentifierFactory.java:133)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.addJoinTableForContainer(RDBMSStoreManager.java:3669)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.access$300(RDBMSStoreManager.java:2847)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.newJoinTable(RDBMSStoreManager.java:2817)
+	at org.datanucleus.store.rdbms.mapping.java.AbstractContainerMapping.initialize(AbstractContainerMapping.java:84)
+	at org.datanucleus.store.rdbms.mapping.MappingManagerImpl.getMapping(MappingManagerImpl.java:667)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageMembers(ClassTable.java:632)
+	at org.datanucleus.store.rdbms.table.ClassTable.manageClass(ClassTable.java:538)
+	at org.datanucleus.store.rdbms.table.ClassTable.initializeForClass(ClassTable.java:1364)
+	at org.datanucleus.store.rdbms.table.ClassTable.initialize(ClassTable.java:270)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.initializeClassTables(RDBMSStoreManager.java:3318)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.run(RDBMSStoreManager.java:2938)
+	at org.datanucleus.store.rdbms.AbstractSchemaTransaction.execute(AbstractSchemaTransaction.java:118)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.createSchemaForClasses(RDBMSStoreManager.java:3925)
+	at org.datanucleus.store.schema.SchemaTool.createSchemaForClasses(SchemaTool.java:509)
+	at org.datanucleus.store.schema.SchemaTool.main(SchemaTool.java:425)
+13:27:35,674 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 5.2.7) para el API "JDO" utilisando el JRE "{2}"
+13:27:36,066 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Commit.class" con definicion enhanced
+13:27:36,067 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : ld.Commit
+13:27:36,078 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Equipo.class" con definicion enhanced
+13:27:36,080 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : ld.Equipo
+13:27:36,090 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Organizacion.class" con definicion enhanced
+13:27:36,092 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : ld.Organizacion
+13:27:36,122 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Repositorio.class" con definicion enhanced
+13:27:36,127 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : ld.Repositorio
+13:27:36,147 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Topico.class" con definicion enhanced
+13:27:36,156 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : ld.Topico
+13:27:36,167 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Usuario.class" con definicion enhanced
+13:27:36,169 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : ld.Usuario
+13:27:36,170 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 6 clases. Tiempos : input=288 ms, enhance=198 ms, total=486 ms. Compruebe el LOG para los detalles
+13:29:00,712 (main) INFO  [DataNucleus.SchemaTool] - DataNucleus SchemaTool : Creación del esquema para clases
+13:29:00,713 (main) INFO  [DataNucleus.SchemaTool] - DataNucleus SchemaTool : Classpath
+13:29:00,713 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\datanucleus\datanucleus-maven-plugin\5.2.1\datanucleus-maven-plugin-5.2.1.jar
+13:29:00,714 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\codehaus\plexus\plexus-utils\3.0.8\plexus-utils-3.0.8.jar
+13:29:00,714 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\apache\maven\maven-artifact\3.0.4\maven-artifact-3.0.4.jar
+13:29:00,714 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\apache\maven\maven-plugin-api\3.0.4\maven-plugin-api-3.0.4.jar
+13:29:00,715 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\apache\maven\maven-model\3.0.4\maven-model-3.0.4.jar
+13:29:00,715 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\sonatype\sisu\sisu-inject-plexus\2.3.0\sisu-inject-plexus-2.3.0.jar
+13:29:00,715 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\codehaus\plexus\plexus-component-annotations\1.5.5\plexus-component-annotations-1.5.5.jar
+13:29:00,715 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\sonatype\sisu\sisu-inject-bean\2.3.0\sisu-inject-bean-2.3.0.jar
+13:29:00,715 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\sonatype\sisu\sisu-guice\3.1.0\sisu-guice-3.1.0-no_aop.jar
+13:29:00,716 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\sonatype\sisu\sisu-guava\0.9.9\sisu-guava-0.9.9.jar
+13:29:00,716 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\codehaus\plexus\plexus-container-default\1.5.5\plexus-container-default-1.5.5.jar
+13:29:00,716 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\codehaus\plexus\plexus-classworlds\2.2.2\plexus-classworlds-2.2.2.jar
+13:29:00,717 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\apache\xbean\xbean-reflect\3.4\xbean-reflect-3.4.jar
+13:29:00,717 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\log4j\log4j\1.2.12\log4j-1.2.12.jar
+13:29:00,717 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\commons-logging\commons-logging-api\1.1\commons-logging-api-1.1.jar
+13:29:00,717 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\com\google\collections\google-collections\1.0\google-collections-1.0.jar
+13:29:00,718 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\junit\junit\3.8.2\junit-3.8.2.jar
+13:29:00,718 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\Desktop\Javatos\target\classes
+13:29:00,718 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\datanucleus\datanucleus-core\5.2.7\datanucleus-core-5.2.7.jar
+13:29:00,718 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\datanucleus\datanucleus-api-jdo\5.2.6\datanucleus-api-jdo-5.2.6.jar
+13:29:00,718 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\datanucleus\datanucleus-rdbms\5.2.7\datanucleus-rdbms-5.2.7.jar
+13:29:00,718 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\org\datanucleus\javax.jdo\3.2.0-m13\javax.jdo-3.2.0-m13.jar
+13:29:00,718 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\javax\transaction\transaction-api\1.1\transaction-api-1.1.jar
+13:29:00,718 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\mysql\mysql-connector-java\5.1.45\mysql-connector-java-5.1.45.jar
+13:29:00,719 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar
+13:29:02,755 (main) INFO  [DataNucleus.SchemaTool] - DataNucleus SchemaTool : Propiedades para persistencia
+13:29:02,756 (main) INFO  [DataNucleus.SchemaTool] - >>  datanucleus.autostartmechanism=None
+13:29:02,756 (main) INFO  [DataNucleus.SchemaTool] - >>  datanucleus.connectionurl=jdbc:mysql://remotemysql.com:3306/lS8RYCUze2?verifyServerCertificate=false&useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
+13:29:02,756 (main) INFO  [DataNucleus.SchemaTool] - >>  datanucleus.connectionusername=lS8RYCUze2
+13:29:02,756 (main) INFO  [DataNucleus.SchemaTool] - >>  datanucleus.mapping=mysql
+13:29:02,756 (main) INFO  [DataNucleus.SchemaTool] - >>  datanucleus.rdbms.checkexisttablesorviews=true
+13:29:02,756 (main) INFO  [DataNucleus.SchemaTool] - >>  datanucleus.readonlydatastore=false
+13:29:02,757 (main) INFO  [DataNucleus.SchemaTool] - >>  datanucleus.schema.autocreatecolumns=true
+13:29:02,757 (main) INFO  [DataNucleus.SchemaTool] - >>  datanucleus.schema.autocreateconstraints=true
+13:29:02,757 (main) INFO  [DataNucleus.SchemaTool] - >>  datanucleus.schema.autocreatetables=true
+13:29:02,757 (main) INFO  [DataNucleus.SchemaTool] - DataNucleus SchemaTool : Ficheros
+13:29:02,757 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Commit.class
+13:29:02,757 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Equipo.class
+13:29:02,757 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Main.class
+13:29:02,757 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Organizacion.class
+13:29:02,758 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Repositorio.class
+13:29:02,758 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Topico.class
+13:29:02,758 (main) INFO  [DataNucleus.SchemaTool] - >>  C:\Users\Alumno\Desktop\Javatos\target\classes\ld\Usuario.class
+13:29:13,737 (main) INFO  [DataNucleus.SchemaTool] - DataNucleus SchemaTool ha terminado con exito

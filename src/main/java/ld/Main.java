@@ -11,8 +11,10 @@ import javax.jdo.Transaction;
 
 public class Main
 {
+
 	public static void main(String args[])
 	{
+		/*
 		System.out.println("Datanucleus + JDO example");
 		System.out.println("=========================");
 	
@@ -291,6 +293,8 @@ public class Main
 		}
 
 		System.out.println("End of the Datanucleus + JDO example");
-		System.out.println("====================================");	
-	}	
+		System.out.println("====================================");
+
+		 */
+	}
 }

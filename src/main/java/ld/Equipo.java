@@ -19,7 +19,7 @@ public class Equipo {
     private Organizacion org;
 
     @Join
-    @Persistent(mappedBy="equipo", dependentElement="true")
+    @Persistent(mappedBy="equiposUsuario", dependentElement="true")
     private List<Usuario> miembrosEquipo = new ArrayList<>();
 
     public Equipo() {
