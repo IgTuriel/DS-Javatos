@@ -24,6 +24,8 @@ public class Usuario {
     private List<Repositorio> reposUsuario = new ArrayList<>();
     @Join
     private List<Equipo> equiposUsuario = new ArrayList<>();
+    private Organizacion org;
+
 
     public Usuario() {
     }
@@ -76,4 +78,6 @@ public class Usuario {
     public void setEmail(String email) {
         this.email = email;
     }
+
+
 }
