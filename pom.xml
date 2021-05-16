@@ -4,8 +4,12 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.datanucleus</groupId>
     <artifactId>Datanucleus-Samples-JDO-MySQL</artifactId>
-    <packaging>jar</packaging>
+    <packaging>pom</packaging>
     <version>3.0</version>
+    <modules>
+        <module>client_src</module>
+        <module>server_src</module>
+    </modules>
 
     <name>DataNucleus AccessPlatform Tutorial for JDO</name>
     <url>http://www.datanucleus.org</url>
@@ -56,8 +60,8 @@
     </dependencies>
 
     <build>
-        <sourceDirectory>src/main/java</sourceDirectory>
-        <testSourceDirectory>src/test/java</testSourceDirectory>
+        <sourceDirectory>server_src/main/java</sourceDirectory>
+        <testSourceDirectory>server_src/test/java</testSourceDirectory>
 
         <resources>
             <resource>

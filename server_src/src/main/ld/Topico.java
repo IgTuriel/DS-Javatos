@@ -1,4 +1,4 @@
-package ld;
+package main.ld;
 
 import javax.jdo.annotations.Join;
 import javax.jdo.annotations.PersistenceCapable;

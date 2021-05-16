@@ -1,4 +1,4 @@
-package cliente.lp;
+package lp;
 
 public class VentanaPrincipal {
 

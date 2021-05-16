@@ -1,4 +1,4 @@
-package servidor.gateway;
+package gateway;
 
 public class Gateway {
 }

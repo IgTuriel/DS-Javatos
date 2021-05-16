@@ -1,4 +1,4 @@
-package ld;
+package main.ld;
 
 import javax.jdo.annotations.*;
 import java.util.ArrayList;

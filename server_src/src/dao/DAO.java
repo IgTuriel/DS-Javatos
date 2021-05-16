@@ -1,4 +1,4 @@
-package servidor.dao;
+package dao;
 
 public class DAO {
 }

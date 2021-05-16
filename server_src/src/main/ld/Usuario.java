@@ -1,4 +1,4 @@
-package ld;
+package main.ld;
 
 import javax.jdo.annotations.Column;
 import javax.jdo.annotations.Join;
